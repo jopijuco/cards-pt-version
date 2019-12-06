@@ -19,8 +19,10 @@
 9. Dude, do not go in that bathroom. There’s __________ in there.
 
 10. How did I lose my virginity?
+ T. Como perdi a virgindade?
 
 11. It’s a pity that kids these days are all getting involved with _____________.
+ T. É uma pena que os putos de hoje em dia só façam _____________.
 
 12. Step 1: __________. Step 2: __________. Step 3: Profit.
 
@@ -35,6 +37,7 @@
 17. In the Disney Channel Original Movie, Hannah Montana struggles with _____________ for the first time.
 
 18. What’s my secret power?
+ T. Qual é o meu poder secreto?
 
 19. I’m going on a cleanse this week. Nothing but kale juice and __________________.
 
@@ -45,6 +48,7 @@
 22. Just once, I’d like to hear you say “Thanks, Mom. Thanks for _________________.”
 
 23. Daddy, why is mommy crying?
+ T. Pai, porque é que a mãe está a chorar?
 
 24. When I was tripping on acid, __________________ turned into _________________.
 
@@ -62,6 +66,7 @@
 30. What’s Teach For America using to inspire inner city students to succeed?
 
 31. Maybe she’s born with it. Maybe it’s __________________.
+ T. Se calhar ela já nasceu assim, ou então __________________.
 
 32. What is George W. Bush thinking about right now?
 
@@ -83,23 +88,27 @@
 39. The class field trip was completely ruined by __________________.
 
 40. What’s a girl’s best friend?
+ T. O que é o melhor amigo da mulher?
 
 41. Dear Abby, I’m having some trouble with __________________ and would like your advice.
 
 42. In M. Night Shyamalan’s new movie, Bruce Willis discovers that __________had really been _______________ all along.
 
 43. When I am President, I will create the Department of __________________.
+ T. Quando for Presidente da Junta vou criar o Departamento de __________________.
 
 44. What are my parents hiding from me?
  T. Que segredos escondem os meus pais?
 
 45. What never fails to liven up the party?
+ T. O que é que anima sempre uma festa?
 
 46. IF you like __________________, YOU MIGHT BE A REDNECK.
 
 47. Make a haiku.
 
 48. What made my first kiss so awkward?
+ T. Porque é que o meu primeiro beijo foi tão ridículo?
 
 49. Hey guys, welcome to Chili’s! Would you like to start the night off right with _________________?
 
@@ -114,6 +123,7 @@
 53. __________________. That was so metal. I never truly understood __________________ until I encountered _________________.
 
 54. During sex, I like to think about __________________.
+ T. Durante o sexo gasto de pensar em __________________.
 
 55. What ended my last relationship?
 
@@ -121,6 +131,7 @@
  T. Que estrondo foi esse?
 
 57. Uh, hey guys, I know this was my idea, but I’m having serious doubts about ____________.
+ T. Ok, eu sei que a ideia foi minha, mas estou com dúvidas em relação a ____________.
 
 58. Why am I sticky?
  T. Porque é que estou pegajoso?
@@ -128,6 +139,7 @@
 59. I’m no doctor but I’m pretty sure what you’re suffering from is called “__________.”
 
 60. What’s there a ton of in heaven?
+ T. O que é que há às toneladas no Céu?
 
 61. After four platinum albums and three Grammys, it’s time to get back to my roots, to what inspired me to make music in the first place: __________.
 
@@ -140,6 +152,7 @@
 65. __________________: kid-tested, mother-approved.
 
 65. Why can’t I sleep at night?
+ T. Porque é que não consigo dormir?
 
 66. What’s that smell?
  T. Que fedor é esse?
@@ -162,7 +175,11 @@
 74. Next on ESPN2: The World Series of __________________.
 
 75. When I am a billionaire, I shall erect a 50-foot statue to commemorate __________________.
+ T. Quando for milionário vou construir uma estátua em honra de __________________.
 
 76. Military historians remember Alexander the Great for his brilliant use of ____________________ against the Persians.
 
 77. War! What is it good for?
+
+
+
