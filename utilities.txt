@@ -1,0 +1,8 @@
+-- Some useful thing to consider when designing the final PDF
+
+1. Open Source graphic editors:
+ - Inkscape (https://inkscape.org/)
+
+
+2. Opensource portuguese typefaces
+ - Shifter Sans (https://gitlab.com/shifter_pt/shifter-sans/blob/master/ShifterSans-Regular.otf)
