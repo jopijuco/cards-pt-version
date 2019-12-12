@@ -1,6 +1,7 @@
 -- Perguntas --
 
 1. Hey Reddit! I’m __________________. Ask me anything.
+T. Hey Reddit! Eu sou __________________. Pergunta-me qualquer coisa.
 
 2. Introducing X-treme Baseball! It’s like baseball, but with __________!
 
@@ -14,7 +15,8 @@
 
 7. I’m sorry, Professor, but I couldn’t complete my homework because of __________.
 
-8 .And the Academy Award for __________________ goes to __________.
+8. And the Academy Award for __________________ goes to __________.
+T. E o prémio da Academia para __________________ vai para __________.
 
 9. Dude, do not go in that bathroom. There’s __________ in there.
 
@@ -173,6 +175,7 @@
 73. Introducing the amazing superhero/sidekick duo! It’s __________ and _____________!
 
 74. Next on ESPN2: The World Series of __________________.
+ T. Já a seguir na TVI:
 
 75. When I am a billionaire, I shall erect a 50-foot statue to commemorate __________________.
  T. Quando for milionário vou construir uma estátua em honra de __________________.
@@ -180,6 +183,3 @@
 76. Military historians remember Alexander the Great for his brilliant use of ____________________ against the Persians.
 
 77. War! What is it good for?
-
-
-
