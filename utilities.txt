@@ -16,3 +16,6 @@
  - Arima Koshi
  - Exo 1.0
  - from: http://ndiscovered.com/?fbclid=IwAR2yLTXZQBm8X_9CZiAEUv1P6oQ61FdNstmfWZuS2SHBWSdnYAKSABPtMQo
+ 
+ - Bazar
+ - from: http://www.mdemaria.com/2009/08/17/bazar/
