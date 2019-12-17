@@ -19,3 +19,6 @@
  
  - Bazar
  - from: http://www.mdemaria.com/2009/08/17/bazar/
+ 
+ - Andromeda
+ - from https://www.behance.net/gallery/43695981/Andromeda-Typeface (no downloadable file found)
