@@ -5,4 +5,23 @@
 
 
 2. Opensource portuguese typefaces
- - Shifter Sans (https://gitlab.com/shifter_pt/shifter-sans/blob/master/ShifterSans-Regular.otf)
+ - Shifter Sans
+ - from: https://gitlab.com/shifter_pt/shifter-sans/blob/master/ShifterSans-Regular.otf
+ 
+ - Exo 2.0
+ - Cinzel
+ - Exo Condensed
+ - Exo Expanded
+ - Arima Madurai
+ - Arima Koshi
+ - Exo 1.0
+ - from: http://ndiscovered.com/?fbclid=IwAR2yLTXZQBm8X_9CZiAEUv1P6oQ61FdNstmfWZuS2SHBWSdnYAKSABPtMQo
+ 
+ - Bazar
+ - from: http://www.mdemaria.com/2009/08/17/bazar/
+ 
+ - Andromeda
+ - from https://www.behance.net/gallery/43695981/Andromeda-Typeface (no downloadable file found)
+
+ - Fonte da Quadrilha
+ - from https://www.behance.net/gallery/54709723/FONTE-DA-QUADRILHA-SSS-free-font-SSS
