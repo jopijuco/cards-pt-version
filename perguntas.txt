@@ -1,8 +1,10 @@
 -- Perguntas --
 
 1. Hey Reddit! I’m __________________. Ask me anything.
+T. 'Tá a chorare? Porquê?
 
 2. Introducing X-treme Baseball! It’s like baseball, but with __________!
+T. O que dizem os teus olhos?
 
 3. What is Batman’s guilty pleasure.
 T. Qual é o guilty pleasure do José Castelo Branco?
@@ -14,6 +16,7 @@ T. Segundo as novas regras da TAP, é proibido __________________ nos aviões.
 T. O próximo livro do Gustavo Santos: Agarra o __________________.
 
 6. That’s right, I killed _________________. How, you ask? _________________.
+T.  Confesso que matei _________________. Sabes como? _________________.
 
 7. I’m sorry, Professor, but I couldn’t complete my homework because of __________.
 T. Desculpe professora, mas não fiz o TPC porque __________.
@@ -43,8 +46,10 @@ T.  Pessoal, não precisam de drogas para ficarem felizes. Eu estou feliz com __
 T.  E no meu próximo truque vou tirar __________ da __________. 
 
 16. While the United States raced the Soviet Union to the moon, the Mexican government funnelled millions of pesos into research on _____________________.
+T.  Durante o regime Salazarista foram investidos milhares de milhões na pesquisa de _____________________.
 
 17. In the Disney Channel Original Movie, Hannah Montana struggles with _____________ for the first time.
+T.  No filme Sozinho em casa, Kevin depara-se com __________________ a tentar entrar em sua casa.
 
 18. What’s my secret power?
 T.  Qual é o meu poder secreto?
@@ -58,6 +63,7 @@ T.  ________ + ________ = ________________.
 21. When Pharaoh remained unmoved, Moses called down a Plague of __________________.
 
 22. Just once, I’d like to hear you say “Thanks, Mom. Thanks for _________________.”
+T.  Nem que fosse só uma vez, gostava de te ouvir dizer: "Obrigada, mãe por _________________".
 
 23. Daddy, why is mommy crying?
 T.  Pai, porque é que a mãe está a chorar?
@@ -77,7 +83,7 @@ T.  Caros portugueses e portuguesas: até ao fim desta década teremos _________
 T.  O Pai Natal dá __________________ às crianças mal comportadas.
 
 29. Life for American Indians was forever changed when the White Man introduced them to __________________.
-T.  A vida dos alentejanos mudou para sempre quando lhes mostraram __________________.
+T.  A vida dos alentejanos mudou para sempre quando se lhes foi mostrarado __________________.
 
 30. What’s Teach For America using to inspire inner city students to succeed?
 
@@ -100,6 +106,7 @@ T.  Porque é que me dói tudo?
 T.  Um jantar à luz das velas estaria incompleto sem __________________.
 
 37. Just saw this upsetting video! Please retweet!! #stop_____________
+T.  Acabei de ver este vídeo horrível. Partilhem!! #stop_____________.
 
 38. Fun tip! When your man asks you to go down on him, try surprising him with __________________ instead.
 T.  Dica! Quando o teu namorado te pede para ir lá abaixo, surpreende-o antes com __________________.
@@ -108,12 +115,13 @@ T.  Dica! Quando o teu namorado te pede para ir lá abaixo, surpreende-o antes c
 T.  Esta visita de estudo foi arruinada por __________________.
 
 40. What’s a girl’s best friend?
-T.  O que é o melhor amigo da mulher?
+T.  Qual é o melhor amigo da mulher?
 
 41. Dear Abby, I’m having some trouble with __________________ and would like your advice.
 T.  Querida Marta, estou a ter dificuldades em __________________ e preciso da sua ajuda.
 
 42. In M. Night Shyamalan’s new movie, Bruce Willis discovers that __________ had really been _______________ all along.
+T.  No último episódio de Morangos com Açúcar, Pipo descobre que __________________ teve __________________.
 
 43. When I am President, I will create the Department of __________________.
 T.  Quando for Presidente da Junta vou criar o Departamento de __________________.
@@ -134,12 +142,13 @@ T.  Cria uma frase inspiradora.
 T.  Porque é que o meu primeiro beijo foi tão ridículo?
 
 49. Hey guys, welcome to Chili’s! Would you like to start the night off right with _________________?
+T.  Bem vindos à Pizza Hut®, querem começar por _________________?
 
 50. I got 99 problems but _______________ ain’t one.
 T.  Tenho muitos problemas, mas _______________ não é um deles.
 
 51. __________________. It’s a trap!
-T.  __________________. É uma armadilha!
+T.  Não __________________, é uma armadilha!
 
 52. Bravo’s new reality show features eight washed-up celebrities living with _____________.
 T.  O novo Big Brother tem oito celebridades a viver com _____________.
@@ -148,15 +157,16 @@ T.  O novo Big Brother tem oito celebridades a viver com _____________.
 T.  O que é que a tua avó achará nojento mas tentador ao mesmo tempo?
 
 53. __________________. That was so metal. I never truly understood __________________ until I encountered _________________.
+T.  __________________. Nunca o entendi realmente até que descobri __________________.
 
 54. During sex, I like to think about __________________.
-T.  Durante o sexo gosto de pensar em __________________.
+T.  Gosto de pensar em __________________ durante o sexo.
 
 55. What ended my last relationship?
 T.  O que fez terminar a tua última relação?
 
 56. What’s that sound?
-T.  Que tiro foi esse?
+T.  Que barulho foi esse?
 
 57. Uh, hey guys, I know this was my idea, but I’m having serious doubts about ____________.
 T.  Ok, eu sei que a ideia foi minha, mas estou com dúvidas em relação a ____________.
@@ -171,7 +181,7 @@ T.  Eu não sou médico, mas tenho tenho a certeza que estás a sofrer de ______
 T.  O que é que há às toneladas no Céu?
 
 61. After four platinum albums and three Grammys, it’s time to get back to my roots, to what inspired me to make music in the first place: __________.
-T.  Depois de três discos de ouro é tempo de voltar às minhas raízes, ao que me inspirou a começar a fazer música: __________.
+T.  Depois de três discos de ouro é tempo de voltar às minhas raízes, ao que me inspirou e me levou a fazer música: __________.
 
 62. What will always get you laid?
 T.  Venho-me sempre com _________________.
@@ -192,15 +202,19 @@ T.  Porque é que não consigo dormir?
 T.  Que fedor é esse?
 
 67. After eight years in the White House, how is Obama finally letting loose?
+T.  Ao fim de oito anos na Casa Branca soube-se que Obama __________________.
 
-68. This is the way the world ends This is the way the world ends Not with a bang but with __________________.
+68. This is the way the world ends. Not with a bang but with __________________.
+T.  E é assim que o nosso mundo acaba, não com __________________, mas com __________________.
 
 69. Coming to Broadway this season, __________________: The Musical.
 T.  Filipe la Féria apresenta: __________________: o Musical.
 
 70. Here is the church. Here is the steeple. Open the doors. And there is __________________.
+T.  Aqui é a torre da igreja. Abram as portas e lá encontrarão __________________.
 
 71. But before I kill you, Mr. Bond, I must show you __________________.
+T.  Último desejo antes de morrer?
 
 72. A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ___________________.
 T.  Um recente estudo de um conceituado laboratório revela que os estudantes universitários têm 50% menos sexo depois de serem expostos a ___________________.
@@ -208,11 +222,13 @@ T.  Um recente estudo de um conceituado laboratório revela que os estudantes un
 73. Introducing the amazing superhero/sidekick duo! It’s __________ and _____________!
 
 74. Next on ESPN2: The World Series of __________________.
+T.  Já a seguir no Fama Show: __________________.
 
 75. When I am a billionaire, I shall erect a 50-foot statue to commemorate __________________.
 T.  Quando for milionário vou construir uma estátua em honra de __________________.
 
 76. Military historians remember Alexander the Great for his brilliant use of ____________________ against the Persians.
+T.  Alexandre, o Grande é lembrado pelos historiadores pelo seu uso brilhante de ____________________  contra os persas.
 
 77. War! What is it good for?
 
