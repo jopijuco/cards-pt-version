@@ -28,7 +28,7 @@ T. Ímanes.
 T. Lobisomens.
 
 10. Seeing what happens when you lock people in a room with hungry seagulls.
-T.  Ver o que acontece num quarto fechado com pessoas e gaivotas famintas.
+T.  Jogar ao quarto escuro.
 
 11. A crucifixion.
 T.  Uma crucificação.
@@ -184,7 +184,7 @@ T.  Sebo.
 T.  Alcoolismo.
 
 62. A middle-aged man on roller skates.
-T.  Um homem de meia idade de boné com pála para trás.
+T.  Um homem de meia idade de boné com pala para trás.
 
 63. Looking in the mirror, applying lipstick, and whispering “tonight, you will have sex with Tom Cruise.”
 T.  Ver-me ao espelho, pôr um batom e sussurrar "Hoje é para beijar!".
@@ -256,7 +256,7 @@ T.  Pássaros que não voam.
 T.  Um traço.
 
 86. 50,000 volts straight to the nipples.
-T.  50,000 volts mesmo nos mamilos.
+T.  50.000 volts mesmo nos mamilos.
 
 87. A balanced breakfast.
 T.  Um pequeno-almoço nutritivo.
@@ -280,7 +280,7 @@ T.  Armas químicas.
 T.  Cristina Ferreira.
 
 94. Wondering if it’s possible to get some of that salsa to go.
-T.  Questiono-me se posso levar os molhos para casa.
+T.  Questionar-me se posso levar os molhos para casa.
 
 96. Bananas.
 T.  Bananas.
@@ -325,7 +325,7 @@ T.   Fazer sexo pela primeira vez.
 T.   Jorge Jesus.
 
 110. Kissing grandma on the forehead and turning off her life support.
-T.   Beijar a avó na testa e desligar-lhe a máquina de suporte de vida.
+T.   Beijar a minha avó na testa e desligar-lhe a máquina de suporte de vida.
 
 111. Sexual tension.
 T.   Tensão sexual.
@@ -373,7 +373,7 @@ T.   Gaygenda.
 T.   Um moldavo.
 
 126. A falcon with a cap on its head.
-T.   Uma águia com um boné.
+T.   Uma pombo de boné.
 
 127. Wizard music.
 T.   Kizomba.
@@ -502,7 +502,7 @@ T.   Azélio e Filhos, Lda.
 T.   Unha do mindinho comprida.
 
 169. Sperm whales.
-T.   Esperma de baleias.
+T.   Esperma de baleia.
 
 170. Women of color.
 T.   Mulheres de cor.
@@ -583,7 +583,7 @@ T.   Tanto quanto 20€ de erva podem comprar.
 T.   Amputações de guerra.
 
 196. Spaghetti?
-T.   Esparguete?
+T.   Almôndegas?
 
 197. Again?
 T.   Outra vez arroz?
@@ -595,7 +595,7 @@ T.   António Costa.
 T.   Uma festa de aniversário sem convidados.
 
 200. Nachos for the table.
-T.   Nachos para a mesa.
+T.   Nachos.
 
 201. Becoming a blueberry.
 T.   Tornar-me numa banana.
@@ -709,7 +709,7 @@ T.   Resmenga.
 T.   Peidar-se na cara de uma criança.
 
 238. A Bop It.™
-T.   Pensei que estivesses condicionada.
+T.   Estar condicionado.
 
 239. A whole thing of butter.
 T.   Um strap-on.
@@ -901,7 +901,7 @@ T.   Para sempre.
 T.   Rasgar esse cu como papel de embrulho.
 
 302. More elephant cock than I bargained for.
-T.   Veio mais pila do que eu pedi.
+T.   Vir mais pila do que pedi.
 
 303. A salty surprise.
 T.   Uma surpresa amarga.
@@ -937,7 +937,7 @@ T.   Ser mulher.
 T.   Ter um acidente de viação.
 
 314. Bill Nye the Science Guy.
-T.   Ver o Art Attack.
+T.   Ver o Buéréré.
 
 315. Black people.
 T.   Pretos.
@@ -1018,7 +1018,7 @@ T.   Bufas vaginais.
 T.   Os actores dos Morangos com Açúcar.
 
 341. Cardi B.
-T.   Bárbara Bandeira.
+T.   Mariza.
 
 342. Viagra.®
 T.   Viagra®.
@@ -1143,11 +1143,11 @@ T.   Mário Soares.
 382. 10,000 Syrian refugees.
 T.   O plantel do Sacavenense.
 
-383. Forced sterilization.
+383. Forced sterilisation.
 T.   Esterilização forçada.
 
 384. My relationship status.
-T.   .
+T.   Combustão espontânea.
 
 385. An unwanted pregnancy.
 T.   Uma gravidez indesejada.
@@ -1159,7 +1159,7 @@ T.   Diversidade.
 T.   Supremacia branca.
 
 388. Bees?
-T.   Abelhas?
+T.   Estar às moscas.
 
 389. Harry Potter erotica.
 T.   La Casa de Raquel.
@@ -1207,7 +1207,7 @@ T.   Concursos de beleza infantil.
 T.   Explosões.
 
 404. Not vaccinating my children because I am stupid.
-T.   Não vacinar os meus filhos porque sou estúpido.
+T.   Não vacinar os meus filhos.
 
 405. Lena Dunham.
 T.   Margarida Rebelo Pinto.
@@ -1243,7 +1243,7 @@ T.   Sua Alteza Real o Senhor Dom Duarte, Duque de Bragança.
 T.   Fátima.
 
 416. Memes.
-T.   O Preto do WhatsApp®.
+T.   O preto do WhatsApp®.
 
 417. Sex with animals.
 T.   Sexo com animais.
@@ -1273,7 +1273,7 @@ T.   Uma bola de cera, sémen e unhas dos pés.
 T.   Um grupo de direita.
 
 426. Hot people.
-T.   Bonzões.
+T.   Bombados.
 
 427. Seething with quiet resentment.
 T.   Não fazer patavina.
