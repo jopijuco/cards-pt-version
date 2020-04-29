@@ -253,7 +253,7 @@ T.  Sexo oral não retribuído.
 T.  Pássaros que não voam.
 
 85. A good sniff.
-T.  Um risco.
+T.  Um traço.
 
 86. 50,000 volts straight to the nipples.
 T.  50,000 volts mesmo nos mamilos.
@@ -271,7 +271,7 @@ T.  A chegada da pizza.
 T.  Síndrome de Cara de Orgasmo Permanente.
 
 91. The cool, refreshing taste of Pepsi.®
-T.  O refrescante sabor do Bagaço.
+T.  O refrescante sabor do bagaço.
 
 92. Chemical weapons.
 T.  Armas químicas.
@@ -409,7 +409,7 @@ T.   Calares-te para eu ver o jogo.
 T.   Trabalhar na Sephora.
 
 138. RoboCop.
-T.   RoboCop.
+T.   Capitão Roby.
 
 139. One titty hanging out.
 T.   Uma mama descaída.
@@ -430,7 +430,7 @@ T.   Puberdade.
 T.   Fantasmas.
 
 145. 50 mg of Zoloft daily.
-T.   50 mg de Xanax® diariamente.
+T.   50mg de Xanax® diariamente.
 
 146. Fucking my sister.
 T.   Foder a minha irmã.
@@ -562,7 +562,7 @@ T.   Pintar com os dedos.
 T.   O cheiro a velho.
 
 189. Getting crushed by a vending machine.
-T.   Ser esmagado pela máquina dos chocolates.
+T.   Ser esmagado pela máquina de refrigerantes.
 
 190. My inner demons.
 T.   Os meus demónios interiores.
@@ -724,7 +724,7 @@ T.   Resolver tudo à porrada.
 T.   Levar com meita na bochecha.
 
 243. Pixelated bukkake.
-T.   Envia nudezas.
+T.   Enviar nudezas.
 
 244. A lifetime of sadness.
 T.   Uma vida triste.
@@ -811,7 +811,7 @@ T.   Limpeza étnica.
 T.   Pombinha comichosa.
 
 272. Blowing my boyfriend so hard he shits.
-T.   Chupar com tanta força que sai bufa.
+T.   Chupar com tanta força que sai gás.
 
 273. A fuck-ton of almonds.
 T.   Uma tonelada de tomates.
@@ -874,7 +874,7 @@ T.   Teatro de Revista.
 T.   Escorregar numa casca de banana.
 
 293. Dwayne “The Rock” Johnson.
-T.   O The Rock.
+T.   Saber do meu passado não é saber a minha história.
 
 294. Accepting the way things are.
 T.   Aceitar as coisas como elas são.
@@ -922,7 +922,7 @@ T.   Sexo consensual.
 T.   Contar uma história de merda que não leva a lado nenhum.
 
 309. A good, strong gorilla.
-T.   O King Kong.
+T.   O macaco Adriano.
 
 310. Seeing my father cry.
 T.   Ver o meu pai a chorar.
@@ -994,7 +994,7 @@ T.   Os russos.
 T.   Um botão de rosa.
 
 333. Fucking the weatherman on live television.
-T.   Fazer sexo em directo com o Rodrigo Guedes de Carvalho.
+T.   Fazer sexo em directo com o José Rodrigues dos Santos.
 
 334. PTSD.
 T.   Stress pós-traumático.
@@ -1147,7 +1147,7 @@ T.   O plantel do Sacavenense.
 T.   Esterilização forçada.
 
 384. My relationship status.
-T.   Sabes a minha história, não sabes o meu passado.
+T.   .
 
 385. An unwanted pregnancy.
 T.   Uma gravidez indesejada.
@@ -1210,7 +1210,7 @@ T.   Explosões.
 T.   Não vacinar os meus filhos porque sou estúpido.
 
 405. Lena Dunham.
-T.   Lena Dunham.
+T.   Margarida Rebelo Pinto.
 
 406. Huffing spray paint.
 T.   Temperar com pesticida.
@@ -1333,7 +1333,7 @@ T.   Heteronormatividade.
 T.   Migalhas no sofá.
 
 446. Arnold Schwarzenegger.
-T.   Arnold Schwarzenegger.
+T.   Paula Bobone.
 
 447. The wifi password.
 T.   A password do Wi-Fi.
@@ -1366,7 +1366,7 @@ T.   Uma tartaruga a morder a ponta do teu pénis.
 T.   Todos os gajos que fodi.
 
 457. The clitoris.
-T.   O clitoris.
+T.   O clítoris.
 
 458. The Big Bang.
 T.   O Big Bang.
@@ -1405,7 +1405,7 @@ T.   Vai dar uma g'anda volta.
 T.   Fantasias com lenhadores.
 
 470. Morgan Freeman’s voice.
-T.   A voz do Morgan Freeman.
+T.   A voz do Rodrigo Guedes de Carvalho.
 
 471. Women in yogurt commercials.
 T.   A tia-avó que só come Ferrero Rocher®.
@@ -1417,7 +1417,7 @@ T.   Aumento peniano.
 T.   Ser um aldrabão.
 
 474. My black ass.
-T.   O meu pénis preto.
+T.   O meu pénis escuro.
 
 475. Genuine human connection.
 T.   Relações humanas.
@@ -1471,7 +1471,7 @@ T.   Bombardeamento de Nagasaki.
 T.   Mamas falsas.
 
 493. The Amish.
-T.   O Homem Aranha.
+T.   José Martinez.
 
 494. David Bowie flying in on a tiger made of lightning.
 T.   David Fonseca.
