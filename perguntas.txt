@@ -25,7 +25,7 @@ T. Desculpe professora, mas não fiz o TPC porque __________.
 T. E o Globo de Ouro de __________ vai para __________.
 
 9. Dude, do not go in that bathroom. There’s __________ in there.
-T. Não entrem na casa de banho. Está lá um __________.
+T. Não entrem na casa de banho! Está lá um __________.
 
 10. How did I lose my virginity?
 T.  Como perdi a virgindade?
@@ -40,13 +40,13 @@ T.  Passo 1: __________. Passo 2: __________. Resultado: Lucro.
 T.  _________________. Não dá para tirar só um!
 
 14. Kids, I don’t need drugs to get high. I’m high on __________.
-T.  Pessoal, não precisam de drogas para ficarem felizes. Eu estou feliz com __________.
+T.  Pessoal, não precisam de drogas para serem felizes. Eu estou feliz com __________.
 
 15. For my next trick, I will pull __________ out of ___________.
 T.  E no meu próximo truque vou tirar __________ da __________. 
 
 16. While the United States raced the Soviet Union to the moon, the Mexican government funnelled millions of pesos into research on _____________________.
-T.  Durante o regime Salazarista foram investidos milhares de milhões na pesquisa de _____________________.
+T.  Durante o regime salazarista foram investidos milhares de escudos na pesquisa de _____________________.
 
 17. In the Disney Channel Original Movie, Hannah Montana struggles with _____________ for the first time.
 T.  No filme Sozinho em casa, Kevin depara-se com __________________ a tentar entrar em sua casa.
@@ -55,13 +55,13 @@ T.  No filme Sozinho em casa, Kevin depara-se com __________________ a tentar en
 T.  Qual é o meu poder secreto?
 
 19. I’m going on a cleanse this week. Nothing but kale juice and __________________.
-T.  Esta semana vou fazer detox. Nada além de sumo de pepino e __________________.
+T.  Esta semana vou fazer detox. Só sumo de pepino e __________________.
 
 20. ________ + ________ = ________________.
 T.  ________ + ________ = ________________.
 
 21. When Pharaoh remained unmoved, Moses called down a Plague of __________________.
-T.  OK! teleseguros®, fala a Marta. Em que posso ser útil?
+T.  OK! teleseguros, fala a Marta. Em que posso ser útil?
 
 22. Just once, I’d like to hear you say “Thanks, Mom. Thanks for _________________.”
 T.  Nem que fosse só uma vez, gostava de te ouvir dizer: "Obrigada, mãe por _________________".
@@ -70,7 +70,7 @@ T.  Nem que fosse só uma vez, gostava de te ouvir dizer: "Obrigada, mãe por __
 T.  Pai, porque é que a mãe está a chorar?
 
 24. When I was tripping on acid, __________________ turned into _________________.
-T.  Quando estava numa moca de ácidos, __________________ transformou-se em _________________.
+T.  Quando estava numa trip de ácidos, __________________ transformou-se em _________________.
 
 25. 50% of all marriages end in __________________.
 T.  50% dos casamentos transformam-se em __________________.
@@ -85,7 +85,7 @@ T.  "Tomai, todos, e comei: isto é o __________________ que será entregue por 
 T.  O Pai Natal dá __________________ às crianças mal comportadas.
 
 29. Life for American Indians was forever changed when the White Man introduced them to __________________.
-T.  A vida dos alentejanos mudou para sempre quando se lhes foi mostrado __________________.
+T.  A vida dos alentejanos mudou para sempre quando lhes mostraram __________________.
 
 30. What’s Teach For America using to inspire inner city students to succeed?
 T.  O que ganharam as crianças que estudaram com um Magalhães?
@@ -112,19 +112,19 @@ T.  Um jantar à luz das velas estaria incompleto sem __________________.
 T.  Acabei de ver este vídeo horrível. Partilhem!! #stop_____________.
 
 38. Fun tip! When your man asks you to go down on him, try surprising him with __________________ instead.
-T.  Dica! Quando o teu namorado te pede para ir lá abaixo, surpreende-o antes com __________________.
+T.  Dica: quando o teu namorado te pede para ir lá abaixo, surpreende-o antes com __________________.
 
 39. The class field trip was completely ruined by __________________.
 T.  Esta visita de estudo foi arruinada por __________________.
 
 40. What’s a girl’s best friend?
-T.  Qual é o melhor amigo da mulher?
+T.  Qual é o melhor amigo do homem?
 
 41. Dear Abby, I’m having some trouble with __________________ and would like your advice.
 T.  Boa tarde, estou a ter dificuldades em __________________ e preciso da sua ajuda.
 
 42. In M. Night Shyamalan’s new movie, Bruce Willis discovers that __________ had really been _______________ all along.
-T.  No último episódio de Morangos com Açúcar, Pipo descobre que __________________ teve __________________.
+T.  No último episódio de Morangos com Açúcar, Pipo descobriu que __________________ teve __________________.
 
 43. When I am President, I will create the Department of __________________.
 T.  Quando for Presidente da Junta vou criar o Departamento de __________________.
@@ -142,10 +142,10 @@ T.  Se gostas de __________________, deves ser cigano.
 T.  Cria uma frase inspiradora.
 
 48. What made my first kiss so awkward?
-T.  Porque é que o meu primeiro beijo foi tão ridículo?
+T.  Porque é que o meu primeiro beijo foi tão deprimente?
 
 49. Hey guys, welcome to Chili’s! Would you like to start the night off right with _________________?
-T.  Bem vindos à Pizza Hut®, querem começar por _________________?
+T.  Bem vindos à Pizza Hut™, querem começar por _________________?
 
 50. I got 99 problems but _______________ ain’t one.
 T.  Tenho muitos problemas, mas _______________ não é um deles.
@@ -157,7 +157,7 @@ T.  Não __________________, é uma armadilha!
 T.  O novo Big Brother tem oito celebridades a viver com _____________.
 
 53. What would grandma find disturbing, yet oddly charming?
-T.  O que é que a tua avó achará nojento mas tentador ao mesmo tempo?
+T.  O que é que a tua avó acha nojento mas tentador ao mesmo tempo?
 
 54. __________________. That was so metal. 
 T.  __________________. Foi incrível! 
@@ -175,28 +175,28 @@ T.  O que fez terminar a tua última relação?
 T.  Que barulho foi esse?
 
 59. Uh, hey guys, I know this was my idea, but I’m having serious doubts about ____________.
-T.  Ok, eu sei que a ideia foi minha, mas estou com dúvidas em relação a ____________.
+T.  Eu sei que a ideia foi minha, mas estou com dúvidas em relação a ____________.
 
 60. Why am I sticky?
 T.  Porque é que estou pegajoso?
 
 61. I’m no doctor but I’m pretty sure what you’re suffering from is called “__________.”
-T.  Eu não sou médico, mas tenho tenho a certeza que estás a sofrer de __________.
+T.  Não sou médico, mas tenho tenho a certeza que tens __________.
 
 62. What’s there a ton of in heaven?
 T.  O que é que há às toneladas no Céu?
 
 63. After four platinum albums and three Grammys, it’s time to get back to my roots, to what inspired me to make music in the first place: __________.
-T.  Depois de três discos de ouro é tempo de voltar às minhas raízes, ao que me inspirou e me levou a fazer música: __________.
+T.  Depois de três Discos de Ouro é tempo de voltar às minhas raízes, ao que me inspirou e me levou a fazer música: __________.
 
 64. What will always get you laid?
 T.  Venho-me sempre com _________________.
 
 65. They said we were crazy. They said we couldn’t put __________________ inside of _________. They were wrong.
-T.  Disseram que éramos maluco. Disseram que não podíamos pôr __________________ dentro de _________. Estavam errados.
+T.  Disseram que éramos malucos e que não podíamos pôr __________________ dentro de _________. Estavam errados.
 
 66. Lifetime® presents “_________________: the Story of _________________.”
-T.  A TV Globo apresenta "_________________: a História de _________________."
+T.  A Globo apresenta _________________: a História de _________________.
 
 67. __________________: kid-tested, mother-approved.
 T.  __________________: testado para crianças, aprovado pelas mães.
@@ -205,7 +205,7 @@ T.  __________________: testado para crianças, aprovado pelas mães.
 T.  Porque é que não consigo dormir?
 
 69. What’s that smell? 
-T.  Que fedor é esse?
+T.  Que fedor é este?
 
 70. After eight years in the White House, how is Obama finally letting loose?
 T.  Ao fim de oito anos na Casa Branca soube-se que Obama __________________.
