@@ -1,2 +1,2 @@
 # cards-pt-version
-Party game "Cards Against Humanity" but in Portuguese
+Party game "Cards Against Humanity" but in Portuguese.
